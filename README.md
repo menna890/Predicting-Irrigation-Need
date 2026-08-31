@@ -91,14 +91,3 @@ with open('model.pkl', 'rb') as f:
 
 ```
 
-
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
-```
-
-```
