@@ -24,10 +24,6 @@ predicting-irrigation-need/
 ├── categories_map.pkl               # Saved categorical features mapping
 ├── model.pkl                        # Trained final ensemble model artifact
 ├── other.ipynb                      # Additional pipeline and modeling scripts
-│
-├── submission_98_final.csv          # Final prediction submission
-├── submission_elite_ensemble_v3.csv # Elite Ensemble predictions
-└── submission_final_threshold_...   # Threshold-tuned predictions
 
 ```
 
